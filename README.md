@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adi</h1>
 
 <h3 align="center">
-  Software Engineer · Graphics Programming · Game Development · WebGL
+  Software Engineer · Graphics Programming · Game Development
 </h3>
 
 <p align="center">
